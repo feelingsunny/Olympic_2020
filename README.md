@@ -2,6 +2,8 @@
 
 https://feelingsunny.github.io/Olympic_2020/
 
+## The goal for this project was to predict medal counts for the 2020 Summer Olympics.
+
 # Technologies
 * R 
 * Python
